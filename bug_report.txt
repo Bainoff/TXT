@@ -1,0 +1,13 @@
+id - R-G.1.2/2.1/BR.001
+status - opened
+test case - R-G.1.2
+module - catalog
+priority - low
+severity - minor
+title - Subcategories displaying issue while browsing in main menu
+steps to reproduce  - Open the home page
+                    - from the menu on the upper part of the page ("flag") choose from the list "Deliver to" country "USA"), push button "Save"
+                    - on the left side of the title page point mouse cursor over any category of goods
+actual result - subcategories with the brands labels appear on the right, arrows from banner below appear from under the goods-menu
+expected result - subcategories with the brands labels appear on the right
+assigned to - Vasechkin.P
