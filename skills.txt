@@ -1,0 +1,5 @@
+target skills:
+- testing;
+- bug reporting;
+- requirements analysis;
+- quality assirance providing.
