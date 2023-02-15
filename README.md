@@ -1,3 +1,5 @@
+![bash](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/256x256.png)
+
 # Top **bash** commands
 
 `ls [option] [file]` - list directory contents
